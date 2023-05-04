@@ -15,7 +15,7 @@ MLflow は、エンド ツー エンドの機械学習ライフサイクルを�
 
 ## Azure Machine Learning ワークスペースをプロビジョニングする
 
-Azure Machine Learning ''ワークスペース'' では、モデルのトレーニングと管理に必要なすべてのリソースと資産を管理するための中心的な場所が提供されます。** Azure Machine Learning ワークスペースは、スタジオ、Python SDK、Azure CLI を使用して操作できます。 
+Azure Machine Learning ''ワークスペース'' では、モデルのトレーニングと管理に必要なすべてのリソースとアセットを管理するための中心的な場所が提供されます。Azure Machine Learning ワークスペースは、スタジオ、Python SDK、Azure CLI を使用して操作できます。 
 
 Azure CLI を使用してワークスペースと必要なコンピューティングをプロビジョニングし、Python SDK を使用してコマンド ジョブを実行します。
 
@@ -71,7 +71,7 @@ Azure Machine Learning ワークスペース、コンピューティング イ�
     git clone https://github.com/MicrosoftLearning/mslearn-azure-ml.git azure-ml-labs
     ```
  
-1. コマンドが完了したら、 **[ファイル]** ペインで **[&#8635;]** をクリックしてビューを更新し、新しい **Users/<自分のユーザー名>/azure-ml-labs** フォルダーが作成されていることを確認します。** 
+1. コマンドが完了したら、 **[ファイル]** ペインで **[&#8635;]** をクリックしてビューを更新し、新しい **Users/<自分のユーザー名>/azure-ml-labs** フォルダーが作成されていることを確認します。
 
 ## ノートブックから MLflow ジョブを送信する
 
