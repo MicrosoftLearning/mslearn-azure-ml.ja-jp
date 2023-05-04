@@ -15,7 +15,7 @@ lab:
 
 ## Azure Machine Learning ワークスペースをプロビジョニングする
 
-Azure Machine Learning ''ワークスペース'' では、モデルのトレーニングと管理に必要なすべてのリソースとアセットを管理するための中心的な場所が提供されます。Azure Machine Learning ワークスペースは、スタジオ、Python SDK、Azure CLI を使用して操作できます。 
+Azure Machine Learning ''ワークスペース'' では、モデルのトレーニングと管理に必要なすべてのリソースと資産を管理するための中心的な場所が提供されます。** Azure Machine Learning ワークスペースは、スタジオ、Python SDK、Azure CLI を使用して操作できます。 
 
 Azure CLI を使用してワークスペースと必要なコンピューティングをプロビジョニングし、Python SDK を使用して自動機械学習で分類モデルをトレーニングします。
 
