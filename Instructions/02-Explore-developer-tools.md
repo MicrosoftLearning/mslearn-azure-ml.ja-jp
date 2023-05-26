@@ -92,7 +92,7 @@ Azure Machine Learning ワークスペースを作成した後、Azure CLI を�
 - **コンピューティング名**: aml-cluster
 - **仮想マシンのサイズ**: STANDARD_DS11_V2
 - **コンピューティングの種類**: AmlCompute "(コンピューティング クラスターが作成されます)"**
-- **最大インスタンス数**: "ノードの最大数"**
+- **最大インスタンス数**: "Maximum instances: 2"**
 - **Azure Machine Learning ワークスペースの名前**: mlw-dp100-labs
 - **リソース グループ**: rg-dp100-labs
 
