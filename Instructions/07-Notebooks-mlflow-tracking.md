@@ -50,7 +50,7 @@ Azure Machine Learning ワークスペースとコンピューティング イ�
 
 ワークスペースと必要なコンピューティング リソースを作成したら、Azure Machine Learning スタジオを開き、ラボの資料をワークスペースに複製できます。
 
-1. Azure portal で **mlw-dp100-...** という名前の Azure Machine Learning ワークスペースに移動します。
+1. Azure portal で、**mlw-dp100-...** という名前の Azure Machine Learning ワークスペースに移動します。
 1. Azure Machine Learning ワークスペースを選択し、その **[概要]** ページで **[スタジオの起動]** を選択します。 ブラウザーで別のタブが開き、Azure Machine Learning スタジオが開きます。
 1. スタジオに表示されるすべてのポップアップを閉じます。
 1. Azure Machine Learning スタジオ内で、 **[コンピューティング]** ページに移動し、前のセクションで作成したコンピューティング インスタンスが存在することを確認します。 コンピューティング インスタンスが稼働している必要があります。
