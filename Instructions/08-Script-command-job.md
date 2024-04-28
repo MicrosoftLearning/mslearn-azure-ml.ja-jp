@@ -117,6 +117,7 @@ Azure Machine Learning ワークスペース、コンピューティング イ�
 1. ターミナルで次のコマンドを実行します。
 
     ```
+    cd azure-ml-labs/Labs/08/src/
     python train-model-parameters.py --training_data diabetes.csv
     ```
 
