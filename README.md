@@ -1,3 +1,11 @@
+#README
+
+We've turned off the ability to report issues directly on this repo and do not monitor PRs.
+
+Provide feedback here: https://aka.ms/provide-feedback
+
+Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
+
 ## Azure Machine Learning のハンズオン演習 (v2)
 
 このリポジトリには、Azure Machine Learning を探索する Microsoft ラーニング パスのハンズオン ラボ演習が含まれています。 ラーニング パスは、Microsoft Learn のマイペースのモジュールで構成されます。 このラボは、学習教材に付属しており、説明されている技術を使用して練習できるようになっています。
