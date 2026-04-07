@@ -1,6 +1,13 @@
 ---
 lab:
   title: Azure Machine Learning でデータを使用できるようにする
+  description: Azure Machine Learning でのデータ アクセスを抽象化するために使用される主なオブジェクトであるデータストアとデータ資産について学習します。
+  duration: 10 minutes
+  level: 400
+  islab: true
+  primarytopics:
+    - Azure
+    - Azure Machine Learning
 ---
 
 # Azure Machine Learning でデータを使用できるようにする

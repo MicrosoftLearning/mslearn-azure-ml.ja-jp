@@ -1,6 +1,13 @@
 ---
 lab:
   title: Azure Machine Learning の環境を処理する
+  description: Azure Machine Learning コンピューティングを使用して機械学習モデルをトレーニングするときの、環境とその使用方法について学習します。
+  duration: 10 minutes
+  level: 400
+  islab: true
+  primarytopics:
+    - Azure
+    - Azure Machine Learning
 ---
 
 # Azure Machine Learning の環境を処理する

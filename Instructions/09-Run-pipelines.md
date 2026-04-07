@@ -1,6 +1,13 @@
 ---
 lab:
   title: Azure Machine Learning でパイプラインを実行する
+  description: スクリプトをパイプライン ジョブとして実行する方法について学習します。
+  duration: 10 minutes
+  level: 400
+  islab: true
+  primarytopics:
+    - Azure
+    - Azure Machine Learning
 ---
 
 # Azure Machine Learning でパイプラインを実行する

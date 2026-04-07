@@ -1,6 +1,13 @@
 ---
 lab:
   title: Azure Machine Learning でコマンド ジョブとしてトレーニング スクリプトを実行する
+  description: ノートブックをスクリプトに変換し、それをコマンド ジョブとして実行します。
+  duration: 10 minutes
+  level: 400
+  islab: true
+  primarytopics:
+    - Azure
+    - Azure Machine Learning
 ---
 
 # Azure Machine Learning でコマンド ジョブとしてトレーニング スクリプトを実行する

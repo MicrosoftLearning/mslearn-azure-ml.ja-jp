@@ -1,6 +1,10 @@
 ---
 lab:
   title: MLflow を使用してトレーニング ジョブを追跡する
+  description: MLflow を使用して、コマンド ジョブとして実行されるモデル トレーニングを追跡します。
+  duration: 10 minutes
+  level: 400
+  islab: true
 ---
 
 # MLflow を使用してトレーニング ジョブを追跡する

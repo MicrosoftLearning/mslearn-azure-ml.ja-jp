@@ -1,6 +1,10 @@
 ---
 lab:
   title: MLflow を使用してノートブックでモデル トレーニングを追跡する
+  description: コンピューティング インスタンスで実行されているノートブック内の MLflow を使用し、モデル トレーニングをログする方法について学習します。
+  duration: 10 minutes
+  level: 400
+  islab: true
 ---
 
 # MLflow を使用してノートブックでモデル トレーニングを追跡する

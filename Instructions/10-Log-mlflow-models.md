@@ -1,6 +1,10 @@
 ---
 lab:
   title: MLflow を使用してモデルをログして登録する
+  description: MLflow を使用して機械学習モデルをログします。
+  duration: 10 minutes
+  level: 400
+  islab: true
 ---
 
 # MLflow を使用してモデルをログして登録する
