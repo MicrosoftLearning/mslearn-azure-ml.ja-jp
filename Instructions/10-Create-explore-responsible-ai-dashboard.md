@@ -1,6 +1,13 @@
 ---
 lab:
   title: 責任ある AI ダッシュボードを作成して探索する
+  description: 'Azure Machine Learning でデータを準備し、[責任ある AI] ダッシュボードを作成します。'
+  duration: 10 minutes
+  level: 400
+  islab: true
+  primarytopics:
+    - Azure
+    - Azure Machine Learning
 ---
 
 # 責任ある AI ダッシュボードを作成して探索する

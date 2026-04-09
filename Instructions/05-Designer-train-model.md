@@ -1,6 +1,14 @@
 ---
 lab:
   title: Azure Machine Learning デザイナーを使用して、モデルをトレーニングする
+  description: デザイナーを使用して、2 つの分類アルゴリズムをすばやくトレーニングして比較します。
+  duration: 10 minutes
+  level: 500
+  islab: true
+  primarytopics:
+    - Azure
+    - Azure Machine Learning
+    - Azure Machine Learning designer
 ---
 
 # Azure Machine Learning デザイナーを使用して、モデルをトレーニングする

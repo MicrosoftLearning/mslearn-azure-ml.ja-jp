@@ -1,6 +1,14 @@
 ---
 lab:
   title: Azure Machine Learning ワークスペースを詳しく見る
+  description: Azure portal を使用して Azure Machine Learning をプロビジョニングする方法について学習します。また、すべてのオプションを確認します。
+  duration: 5 minutes
+  level: 400
+  islab: true
+  primarytopics:
+    - Azure
+    - Azure Machine Learning
+    - Azure Portal
 ---
 
 # Azure Machine Learning ワークスペースを詳しく見る

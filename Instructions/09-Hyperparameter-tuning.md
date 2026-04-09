@@ -1,6 +1,13 @@
 ---
 lab:
   title: スイープ ジョブを使用してハイパーパラメーターのチューニングを実行する
+  description: Azure Machine Learning を使用して、複数のトレーニングの試行を並行して実行することでハイパーパラメーターを調整します。
+  duration: 10 minutes
+  level: 400
+  islab: true
+  primarytopics:
+    - Azure
+    - Azure Machine Learning
 ---
 
 # スイープ ジョブを使用してハイパーパラメーターのチューニングを実行する

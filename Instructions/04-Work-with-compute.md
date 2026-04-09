@@ -1,6 +1,13 @@
 ---
 lab:
   title: Azure Machine Learning でコンピューティング リソースを使用する
+  description: Azure Machine Learning でクラウド コンピューティングを使用して、実験と運用コードを大規模に実行する方法について学習します。
+  duration: 10 minutes
+  level: 400
+  islab: true
+  primarytopics:
+    - Azure
+    - Azure Machine Learning
 ---
 
 # Azure Machine Learning でコンピューティング リソースを使用する

@@ -1,6 +1,10 @@
 ---
 lab:
   title: バッチ エンドポイントにモデルをデプロイする
+  description: MLflow モデルをバッチ エンドポイントにデプロイし、ジョブを送信してサンプル データでテストします。
+  duration: 10 minutes
+  level: 400
+  islab: true
 ---
 
 # バッチ エンドポイントにモデルをデプロイする
