@@ -1,10 +1,4 @@
-#README
-
-We've turned off the ability to report issues directly on this repo and do not monitor PRs.
-
-Provide feedback here: https://aka.ms/provide-feedback
-
-Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
+**このコースは 2026 年 4 月 30 日に廃止されます。コースが廃止されると、すべての GitHub リポジトリが削除されます。よろしくお願いいたします。**
 
 ## Azure Machine Learning のハンズオン演習 (v2)
 
